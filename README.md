@@ -8,8 +8,8 @@ Home: Página principal del sitio, que proporciona una introducción y navegaci�
 About Me: Sección dedicada a describir el perfil personal y profesional.
 Portfolio: Muestra proyectos previos y ejemplos de trabajos realizados.
 Resume: Página que incluye el currículum vitae en formato visual y una opción descargable.
-Services: Describe los servicios o habilidades ofrecidas.
-Contact: Página de contacto con formulario para enviar mensajes.
+Servicios: Describe los servicios o habilidades ofrecidas.
+Contacto: Página de contacto con formulario para enviar mensajes.
 Tecnologías Utilizadas
 HTML5: Estructura del contenido del sitio web.
 Funcionalidades
@@ -17,5 +17,3 @@ Menú de navegación funcional para moverse entre las páginas del sitio.
 Inclusión de imágenes.
 Uso de listas desordenadas para organizar el contenido.
 
-Autor
-Desarrollado por Francisco Garcia Reinoso para la materia Desarrollo Web.
